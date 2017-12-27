@@ -1,0 +1,50 @@
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0xf31)
+    Vendor:   Intel
+    VRAM:     547 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\iEklipse\Dropbox\Concordia\Fall 2016\COMP 376\Assignments\3\A3 - 27415281\Build\DBZ - Space Harrier_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\iEklipse\Dropbox\Concordia\Fall 2016\COMP 376\Assignments\3\A3 - 27415281\Build\DBZ - Space Harrier_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\iEklipse\Dropbox\Concordia\Fall 2016\COMP 376\Assignments\3\A3 - 27415281\Build\DBZ - Space Harrier_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\iEklipse\Dropbox\Concordia\Fall 2016\COMP 376\Assignments\3\A3 - 27415281\Build\DBZ - Space Harrier_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\iEklipse\Dropbox\Concordia\Fall 2016\COMP 376\Assignments\3\A3 - 27415281\Build\DBZ - Space Harrier_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\iEklipse\Dropbox\Concordia\Fall 2016\COMP 376\Assignments\3\A3 - 27415281\Build\DBZ - Space Harrier_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\iEklipse\Dropbox\Concordia\Fall 2016\COMP 376\Assignments\3\A3 - 27415281\Build\DBZ - Space Harrier_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\iEklipse\Dropbox\Concordia\Fall 2016\COMP 376\Assignments\3\A3 - 27415281\Build\DBZ - Space Harrier_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  3.491 seconds
+Platform assembly: C:\Users\iEklipse\Dropbox\Concordia\Fall 2016\COMP 376\Assignments\3\A3 - 27415281\Build\DBZ - Space Harrier_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\iEklipse\Dropbox\Concordia\Fall 2016\COMP 376\Assignments\3\A3 - 27415281\Build\DBZ - Space Harrier_Data\Managed\System.dll (this message is harmless)
+desktop: 1368x768 60Hz; virtual: 1368x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.058240 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.171204 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 741.
+Total: 0.717312 ms (FindLiveObjects: 0.100608 ms CreateObjectMapping: 0.107520 ms MarkObjects: 0.476928 ms  DeleteObjects: 0.030720 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 15e4 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.065793 ms
+
+Unloading 482 unused Assets to reduce memory usage. Loaded Objects now: 273.
+Total: 10.513922 ms (FindLiveObjects: 0.109824 ms CreateObjectMapping: 0.086784 ms MarkObjects: 0.576000 ms  DeleteObjects: 9.739778 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.692672 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 772.
+Total: 0.835584 ms (FindLiveObjects: 0.073728 ms CreateObjectMapping: 0.086784 ms MarkObjects: 0.638976 ms  DeleteObjects: 0.035328 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.115904 ms
+
+Unloading 484 unused Assets to reduce memory usage. Loaded Objects now: 273.
+Total: 10.715138 ms (FindLiveObjects: 0.123648 ms CreateObjectMapping: 0.087552 ms MarkObjects: 0.546816 ms  DeleteObjects: 9.954818 ms)
+
